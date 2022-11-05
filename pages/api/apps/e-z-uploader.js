@@ -3,7 +3,7 @@ export default function handler(req, res) {
         {
         id: 1,
         name: "E-Z Uploader",
-        version: "1.1.0",
+        version: "1.2.0",
         },
     );
 }
